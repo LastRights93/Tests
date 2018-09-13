@@ -1,0 +1,1488 @@
+﻿Log file open, 06/01/18 12:59:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Testing
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-693108514) SRandInit(-693108514).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.691516
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.600s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Maximus_Arelius (10.0.0.9:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.01-17.59.58:207][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.01-17.59.58:207][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.01-17.59.58:226][  0]LogInit: Computer: MAXIMUS_ARELIUS
+[2018.06.01-17.59.58:226][  0]LogInit: User: JacobThomas
+[2018.06.01-17.59.58:226][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.01-17.59.58:226][  0]LogInit: High frequency timer resolution =2.440039 MHz
+[2018.06.01-17.59.58:227][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.01-17.59.58:227][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.01-17.59.58:227][  0]LogMemory: Process Physical Memory: 277.48 MB used, 277.48 MB peak
+[2018.06.01-17.59.58:227][  0]LogMemory: Process Virtual Memory: 268.49 MB used, 268.49 MB peak
+[2018.06.01-17.59.58:227][  0]LogMemory: Physical Memory: 6190.89 MB used,  10078.51 MB free, 16269.40 MB total
+[2018.06.01-17.59.58:227][  0]LogMemory: Virtual Memory: 644.70 MB used,  10078.51 MB free, 8388608.00 MB total
+[2018.06.01-17.59.58:476][  0]LogInit: Using OS detected language (en-US).
+[2018.06.01-17.59.58:476][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.01-17.59.58:489][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.01-17.59.59:242][  0]LogStreaming: Display: Took  0.765s to EndInitTextLocalization.
+[2018.06.01-17.59.59:244][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.06.01-17.59.59:244][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.06.01-17.59.59:244][  0]LogInit: Setting process to DPI aware
+[2018.06.01-17.59.59:253][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.06.01-17.59.59:253][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.06.01-17.59.59:253][  0]LogInit: Setting process to DPI aware
+[2018.06.01-17.59.59:308][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.01-17.59.59:308][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.01-17.59.59:847][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.01-17.59.59:886][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2018.06.01-17.59.59:886][  0]LogD3D11RHI:       4004/0/7878 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.01-17.59.59:910][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2018.06.01-17.59.59:910][  0]LogD3D11RHI:       4004/0/7878 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.06.01-17.59.59:910][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.01-17.59.59:924][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.01-17.59.59:924][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.01-17.59.59:924][  0]LogWindows: EnumDisplayDevices:
+[2018.06.01-17.59.59:925][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.06.01-17.59.59:925][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.06.01-17.59.59:926][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.06.01-17.59.59:926][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.06.01-17.59.59:926][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.06.01-17.59.59:926][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.06.01-17.59.59:927][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.06.01-17.59.59:927][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter 
+[2018.06.01-17.59.59:927][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2018.06.01-17.59.59:928][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.06.01-17.59.59:928][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.06.01-17.59.59:928][  0]LogRHI: Texture pool is 2803 MB (70% of 4004 MB)
+[2018.06.01-17.59.59:957][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.01-17.59.59:957][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.01-17.59.59:957][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.01-17.59.59:986][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.01-17.59.59:990][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Intermediate/Shaders/WorkingDirectory/10816/).
+[2018.06.01-17.59.59:990][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jacob Thomas/AppData/Local/Temp/UnrealShaderWorkingDir/4A30854A4DB5189406285FB563C9F134/'.
+[2018.06.01-18.00.00:366][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.01-18.00.00:391][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.01-18.00.00:414][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.01-18.00.00:437][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.01-18.00.00:464][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.01-18.00.00:489][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.01-18.00.00:512][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.01-18.00.00:537][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.01-18.00.00:552][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.01-18.00.00:578][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.01-18.00.00:599][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.01-18.00.00:622][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.01-18.00.00:643][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.01-18.00.00:665][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.01-18.00.00:686][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.01-18.00.00:728][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.01-18.00.00:728][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.01-18.00.00:750][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.01-18.00.00:756][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.01-18.00.00:816][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.01-18.00.00:835][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.01-18.00.00:859][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.01-18.00.00:881][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.01-18.00.00:901][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.01-18.00.00:925][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.01-18.00.00:925][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.01-18.00.01:286][  0]LogXGEController: Cleaning working directory: C:/Users/Jacob Thomas/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.01-18.00.01:286][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.01-18.00.01:287][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.01-18.00.01:287][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.01-18.00.02:570][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.01-18.00.03:081][  0]LogDerivedDataCache: Loaded boot cache 0.51s 74MB C:/Users/Jacob Thomas/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.01-18.00.03:081][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jacob Thomas/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.01-18.00.03:082][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.01-18.00.03:082][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.01-18.00.03:082][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.01-18.00.03:082][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.01-18.00.03:113][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.01-18.00.03:125][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jacob Thomas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.01-18.00.03:125][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.01-18.00.03:125][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.01-18.00.03:147][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.01-18.00.03:153][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.01-18.00.03:159][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.01-18.00.03:159][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.01-18.00.03:714][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2018.06.01-18.00.04:224][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.01-18.00.04:583][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.01-18.00.04:594][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.01-18.00.04:594][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.01-18.00.04:595][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.01-18.00.04:595][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.01-18.00.04:595][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.01-18.00.04:682][  0]LogNetVersion: Testing , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2518963122)
+[2018.06.01-18.00.05:763][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.146867 seconds
+[2018.06.01-18.00.05:795][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.01-18.00.05:795][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.06.01-18.00.05:795][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.01-18.00.10:692][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.01-18.00.10:730][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.01-18.00.11:231][  0]SourceControl: Source control is disabled
+[2018.06.01-18.00.11:231][  0]SourceControl: Source control is disabled
+[2018.06.01-18.00.11:262][  0]SourceControl: Source control is disabled
+[2018.06.01-18.00.11:288][  0]SourceControl: Source control is disabled
+[2018.06.01-18.00.12:123][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.01-18.00.12:327][  0]LogOcInput: OculusInput pre-init called
+[2018.06.01-18.00.12:510][  0]LogEngine: Initializing Engine...
+[2018.06.01-18.00.12:514][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.01-18.00.12:516][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.01-18.00.12:516][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.01-18.00.12:946][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.01-18.00.12:965][  0]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.01-18.00.12:981][  0]LogInit: FAudioDevice initialized.
+[2018.06.01-18.00.13:431][  0]LogDerivedDataCache: Saved boot cache 0.45s 74MB C:/Users/Jacob Thomas/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.01-18.00.13:462][  0]LogInit: Texture streaming: Enabled
+[2018.06.01-18.00.13:580][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.01-18.00.13:765][  0]LogInit: Transaction tracking system initialized
+[2018.06.01-18.00.13:957][  0]BlueprintLog: New page: Editor Load
+[2018.06.01-18.00.14:184][  0]LocalizationService: Localization service is disabled
+[2018.06.01-18.00.14:410][  0]LogConsoleResponse: Display: 
+[2018.06.01-18.00.14:717][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.01-18.00.14:717][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.01-18.00.14:717][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.01-18.00.14:718][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.01-18.00.14:718][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.01-18.00.15:031][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/' took 0.02s
+[2018.06.01-18.00.15:693][  0]SourceControl: Source control is disabled
+[2018.06.01-18.00.15:715][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.01-18.00.15:739][  0]LightingResults: New page: Lighting Build
+[2018.06.01-18.00.15:767][  0]MapCheck: New page: Map Check
+[2018.06.01-18.00.15:767][  0]LightingResults: New page: Lighting Build
+[2018.06.01-18.00.15:935][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000057459340, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.01-18.00.15:957][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000057459340, Size=64
+[2018.06.01-18.00.15:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000056dabec0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.01-18.00.15:979][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000056d88f90, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.01-18.00.16:109][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000056d1b600, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.01-18.00.16:124][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000056d1b600, Size=296
+[2018.06.01-18.00.16:124][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000056d1b600, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_4:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.01-18.00.16:134][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000056d19f80, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.01-18.00.18:026][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [18.836994ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.01-18.00.18:105][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.01-18.00.18:151][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.01-18.00.18:173][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000056dabec0, Size=64
+[2018.06.01-18.00.18:174][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000056d1b600, Size=296
+[2018.06.01-18.00.18:176][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.01-18.00.18:280][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 103.819ms to complete.
+[2018.06.01-18.00.18:280][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.580
+[2018.06.01-18.00.18:601][  0]LogCollectionManager: Loaded 0 collections in 0.002559 seconds
+[2018.06.01-18.00.18:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Collections/' took 0.01s
+[2018.06.01-18.00.18:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/Developers/JacobThomas/Collections/' took 0.01s
+[2018.06.01-18.00.18:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/Collections/' took 0.01s
+[2018.06.01-18.00.18:665][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.01-18.00.18:684][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2452 classes and 558 folders.
+[2018.06.01-18.00.18:695][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.01-18.00.18:904][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.01-18.00.18:926][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.06.01-18.00.18:999][  0]LogSlate: Took 0.001865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.01-18.00.19:005][  0]LogSlate: Took 0.003325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.01-18.00.19:022][  0]LogSlate: Took 0.001475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.01-18.00.19:177][  0]LogRenderer: Reallocating scene render targets to support 796x356 Format 10 NumSamples 1 (Frame:1).
+[2018.06.01-18.00.19:454][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.01-18.00.19:454][  0]LogLoad: (Engine Initialization) Total time: 25.87 seconds
+[2018.06.01-18.00.19:454][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.01-18.00.19:816][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.01-18.00.19:856][  0]LogSlate: Took 0.001407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.01-18.00.20:153][  1]LogAssetRegistry: Asset discovery search completed in 16.4593 seconds
+[2018.06.01-18.00.20:156][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.01-18.00.20:156][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2018.06.01-18.00.20:585][  3]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.06.01-18.00.20:694][  4]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.06.01-18.00.20:694][  4]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.01-18.00.20:694][  4]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.01-18.00.20:694][  4]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.01-18.00.23:484][ 76]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.00.52:517][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cheese_Automatic_Unwrap)
+[2018.06.01-18.00.53:524][976]Cmd: DELETE
+[2018.06.01-18.00.53:524][976]Cmd: ACTOR DELETE
+[2018.06.01-18.00.53:665][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.00.53:689][976]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2018.06.01-18.00.59:763][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.01.43:502][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BlockoutSceneCheese_Object001)
+[2018.06.01-18.02.29:330][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cheese_Full_From_Max2_Plane001)
+[2018.06.01-18.02.33:406][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cheese_Full_From_Max2_Tree)
+[2018.06.01-18.02.34:318][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cheese_Full_From_Max2_Box005)
+[2018.06.01-18.02.37:480][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.02.55:730][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:730][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:730][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:730][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:730][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:730][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:731][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:731][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:731][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:731][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:731][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:731][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:731][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:731][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:731][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:731][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:732][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:733][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:734][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:735][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.01-18.02.55:747][890]LogEditorActor: Deleted 50 Actors (0.031 secs)
+[2018.06.01-18.03.30:852][178]LogSlate: Took 0.001025 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.01-18.03.53:362][178]LogSlate: Window 'Replace References?' being destroyed
+[2018.06.01-18.03.53:364][178]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.01-18.04.08:734][178]LogSlate: Window 'Save Content' being destroyed
+[2018.06.01-18.04.08:842][178]LogSavePackage: Save=4.28ms
+[2018.06.01-18.04.08:842][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Automatic_Unwrap2980525043076241E3694981993F2EB9.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Automatic_Unwrap.uasset'
+[2018.06.01-18.04.08:847][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Automatic_Unwrap.uasset
+[2018.06.01-18.04.08:882][178]LogSavePackage: Save=1.33ms
+[2018.06.01-18.04.08:882][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box0016CD88F8A4737E8782707AB8BB7F9B7D2.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box001.uasset'
+[2018.06.01-18.04.08:886][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box001.uasset
+[2018.06.01-18.04.08:927][178]LogSavePackage: Save=1.07ms
+[2018.06.01-18.04.08:927][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box002A4E2E8D84724A8A877964B9F35D7924F.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box002.uasset'
+[2018.06.01-18.04.08:930][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box002.uasset
+[2018.06.01-18.04.08:977][178]LogSavePackage: Save=1.04ms
+[2018.06.01-18.04.08:977][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box0038309856B4195DF884DA316B473854B93.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box003.uasset'
+[2018.06.01-18.04.08:979][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box003.uasset
+[2018.06.01-18.04.09:025][178]LogSavePackage: Save=1.06ms
+[2018.06.01-18.04.09:025][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box0043A8E09CD4465F02929D6E897E47F004A.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box004.uasset'
+[2018.06.01-18.04.09:031][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box004.uasset
+[2018.06.01-18.04.09:075][178]LogSavePackage: Save=1.11ms
+[2018.06.01-18.04.09:075][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box0056C1AC61B4A669236383D10BD49CFA339.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box005.uasset'
+[2018.06.01-18.04.09:079][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box005.uasset
+[2018.06.01-18.04.09:129][178]LogSavePackage: Save=1.61ms
+[2018.06.01-18.04.09:129][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box0064F02A543412A57DDC47A1299DF25DB51.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box006.uasset'
+[2018.06.01-18.04.09:133][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box006.uasset
+[2018.06.01-18.04.09:172][178]LogSavePackage: Save=1.54ms
+[2018.06.01-18.04.09:172][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box007DA9B65E94D709D5CFE754183948D652E.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box007.uasset'
+[2018.06.01-18.04.09:177][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box007.uasset
+[2018.06.01-18.04.09:219][178]LogSavePackage: Save=1.33ms
+[2018.06.01-18.04.09:219][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box011DC8F42524C46111D3FD2B9A168068777.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box011.uasset'
+[2018.06.01-18.04.09:222][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box011.uasset
+[2018.06.01-18.04.09:267][178]LogSavePackage: Save=1.13ms
+[2018.06.01-18.04.09:267][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box012107947214B62BF4FF405A997CE2C5501.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box012.uasset'
+[2018.06.01-18.04.09:270][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box012.uasset
+[2018.06.01-18.04.09:317][178]LogSavePackage: Save=1.05ms
+[2018.06.01-18.04.09:317][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box0139A02AB864D5579E6939E3F94E9B9AA8E.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box013.uasset'
+[2018.06.01-18.04.09:322][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box013.uasset
+[2018.06.01-18.04.09:365][178]LogSavePackage: Save=1.02ms
+[2018.06.01-18.04.09:365][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box0187BC0D7B04E3BEB9881894FA790A5528A.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box018.uasset'
+[2018.06.01-18.04.09:368][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box018.uasset
+[2018.06.01-18.04.09:412][178]LogSavePackage: Save=1.16ms
+[2018.06.01-18.04.09:412][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box02400B5A56F4EAB8A445B1850AECFD46E70.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box024.uasset'
+[2018.06.01-18.04.09:416][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box024.uasset
+[2018.06.01-18.04.09:461][178]LogSavePackage: Save=1.14ms
+[2018.06.01-18.04.09:462][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box0250D98B8434DEB5E611BAD62B01C179294.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box025.uasset'
+[2018.06.01-18.04.09:467][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box025.uasset
+[2018.06.01-18.04.09:510][178]LogSavePackage: Save=1.16ms
+[2018.06.01-18.04.09:510][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box027204C5E4B4A9E77F2FB732FA542F3B59E.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box027.uasset'
+[2018.06.01-18.04.09:513][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box027.uasset
+[2018.06.01-18.04.09:561][178]LogSavePackage: Save=1.60ms
+[2018.06.01-18.04.09:561][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box028B4F4A0754308495945B28FBADE68BC9D.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box028.uasset'
+[2018.06.01-18.04.09:564][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box028.uasset
+[2018.06.01-18.04.09:608][178]LogSavePackage: Save=1.18ms
+[2018.06.01-18.04.09:608][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box029C90ADE2D45EF6AD950C3068213F77CAF.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box029.uasset'
+[2018.06.01-18.04.09:612][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box029.uasset
+[2018.06.01-18.04.09:656][178]LogSavePackage: Save=1.12ms
+[2018.06.01-18.04.09:656][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Box030DBF6A532404CD5EB54E16B92B8FBCFAF.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box030.uasset'
+[2018.06.01-18.04.09:658][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Box030.uasset
+[2018.06.01-18.04.09:704][178]LogSavePackage: Save=1.15ms
+[2018.06.01-18.04.09:704][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Cylinder001CE1A2D04D1B261A55E0E39F142306A1.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Cylinder001.uasset'
+[2018.06.01-18.04.09:708][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Cylinder001.uasset
+[2018.06.01-18.04.09:752][178]LogSavePackage: Save=1.12ms
+[2018.06.01-18.04.09:752][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Cylinder0011DAC6E4440CC2B3DF729891C1217ACF.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Cylinder002.uasset'
+[2018.06.01-18.04.09:756][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Cylinder002.uasset
+[2018.06.01-18.04.09:801][178]LogSavePackage: Save=1.09ms
+[2018.06.01-18.04.09:801][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Cylinder002CCFA7A7484802B77FB01B8BA05FF76C.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Cylinder003.uasset'
+[2018.06.01-18.04.09:805][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Cylinder003.uasset
+[2018.06.01-18.04.09:851][178]LogSavePackage: Save=1.10ms
+[2018.06.01-18.04.09:851][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Head537F0DFA4B58F61DCFE464B9A3136CD8.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Head.uasset'
+[2018.06.01-18.04.09:854][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Head.uasset
+[2018.06.01-18.04.09:898][178]LogSavePackage: Save=1.23ms
+[2018.06.01-18.04.09:899][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Left_ArmD58572E74007C690C1B6579393C81B5B.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Left_Arm.uasset'
+[2018.06.01-18.04.09:902][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Left_Arm.uasset
+[2018.06.01-18.04.09:946][178]LogSavePackage: Save=1.18ms
+[2018.06.01-18.04.09:946][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Left_Foot4AC03AF0474DA5899805A886C193A80A.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Left_Foot.uasset'
+[2018.06.01-18.04.09:953][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Left_Foot.uasset
+[2018.06.01-18.04.09:996][178]LogSavePackage: Save=1.12ms
+[2018.06.01-18.04.09:996][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Left_HandFE4F8CFB48962CC8AB4470A05528830B.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Left_Hand.uasset'
+[2018.06.01-18.04.10:002][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Left_Hand.uasset
+[2018.06.01-18.04.10:043][178]LogSavePackage: Save=0.98ms
+[2018.06.01-18.04.10:043][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Left_Leg6E3F47254F6CFA9DD536C2914CD12BF5.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Left_Leg.uasset'
+[2018.06.01-18.04.10:047][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Left_Leg.uasset
+[2018.06.01-18.04.10:093][178]LogSavePackage: Save=1.08ms
+[2018.06.01-18.04.10:093][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Line001A76D0C2641D77432FF6A2EAEF04FB9AA.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Line001.uasset'
+[2018.06.01-18.04.10:096][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Line001.uasset
+[2018.06.01-18.04.10:142][178]LogSavePackage: Save=1.01ms
+[2018.06.01-18.04.10:142][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Object0017CC55B67406E78B04C70F49C5D993D27.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Object001.uasset'
+[2018.06.01-18.04.10:145][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Object001.uasset
+[2018.06.01-18.04.10:191][178]LogSavePackage: Save=1.23ms
+[2018.06.01-18.04.10:191][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Object003F8F765B84BF2C936A4B70BA8F6F8345B.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Object003.uasset'
+[2018.06.01-18.04.10:194][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Object003.uasset
+[2018.06.01-18.04.10:237][178]LogSavePackage: Save=1.07ms
+[2018.06.01-18.04.10:237][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Object004621AA4694F0821601972D7B6C1F26FD0.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Object004.uasset'
+[2018.06.01-18.04.10:241][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Object004.uasset
+[2018.06.01-18.04.10:286][178]LogSavePackage: Save=1.10ms
+[2018.06.01-18.04.10:286][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Object0143AEF073F47827459D4073F91BDD66B47.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Object014.uasset'
+[2018.06.01-18.04.10:289][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Object014.uasset
+[2018.06.01-18.04.10:335][178]LogSavePackage: Save=1.12ms
+[2018.06.01-18.04.10:335][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Plane0018B92C7CC40297F32904D28AF974DB05D.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane001.uasset'
+[2018.06.01-18.04.10:341][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane001.uasset
+[2018.06.01-18.04.10:384][178]LogSavePackage: Save=1.18ms
+[2018.06.01-18.04.10:384][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Plane00268C09EAA4782567A2D8CDA9D9F16FF40.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane002.uasset'
+[2018.06.01-18.04.10:387][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane002.uasset
+[2018.06.01-18.04.10:431][178]LogSavePackage: Save=1.04ms
+[2018.06.01-18.04.10:431][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Plane00316EF7F324854604ABF0552A8FE158920.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane003.uasset'
+[2018.06.01-18.04.10:437][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane003.uasset
+[2018.06.01-18.04.10:480][178]LogSavePackage: Save=1.05ms
+[2018.06.01-18.04.10:480][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Plane004441B5FCC40C04E8066A0BEB57AB3C6E3.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane004.uasset'
+[2018.06.01-18.04.10:484][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane004.uasset
+[2018.06.01-18.04.10:529][178]LogSavePackage: Save=1.09ms
+[2018.06.01-18.04.10:529][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Plane00553882BD140CC8A1D458A7392EAC0EA80.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane005.uasset'
+[2018.06.01-18.04.10:533][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane005.uasset
+[2018.06.01-18.04.10:578][178]LogSavePackage: Save=1.13ms
+[2018.06.01-18.04.10:578][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Plane006F0B1C6644B1E8FF3F6FA0A8C6F556348.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane006.uasset'
+[2018.06.01-18.04.10:582][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane006.uasset
+[2018.06.01-18.04.10:628][178]LogSavePackage: Save=1.20ms
+[2018.06.01-18.04.10:628][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Plane0079A52B1D240B57067B2965FBBB21F850D.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane007.uasset'
+[2018.06.01-18.04.10:631][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane007.uasset
+[2018.06.01-18.04.10:676][178]LogSavePackage: Save=1.22ms
+[2018.06.01-18.04.10:676][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Plane012562B370D4B24D55691A6C998AA1C5970.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane012.uasset'
+[2018.06.01-18.04.10:680][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Plane012.uasset
+[2018.06.01-18.04.10:725][178]LogSavePackage: Save=1.59ms
+[2018.06.01-18.04.10:725][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Right_Arm340D77CC434ECB94DEFC25BCFB1CE946.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Right_Arm.uasset'
+[2018.06.01-18.04.10:729][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Right_Arm.uasset
+[2018.06.01-18.04.10:773][178]LogSavePackage: Save=1.35ms
+[2018.06.01-18.04.10:773][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Right_Leg929C02DD416DC78A6729F5A5FD3D25E0.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Right_Leg.uasset'
+[2018.06.01-18.04.10:776][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Right_Leg.uasset
+[2018.06.01-18.04.10:821][178]LogSavePackage: Save=1.53ms
+[2018.06.01-18.04.10:821][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_RightFoot530F2EDB44E04CDEBF10AFAE34840255.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_RightFoot.uasset'
+[2018.06.01-18.04.10:825][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_RightFoot.uasset
+[2018.06.01-18.04.10:874][178]LogSavePackage: Save=1.27ms
+[2018.06.01-18.04.10:874][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_RightHandD642D5104AFBD3C65FAC66BA87D1D0DA.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_RightHand.uasset'
+[2018.06.01-18.04.10:877][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_RightHand.uasset
+[2018.06.01-18.04.10:922][178]LogSavePackage: Save=1.47ms
+[2018.06.01-18.04.10:922][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Robe67240C8B46DB4ECFF3DD718F8D424B6D.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Robe.uasset'
+[2018.06.01-18.04.10:925][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Robe.uasset
+[2018.06.01-18.04.10:969][178]LogSavePackage: Save=1.35ms
+[2018.06.01-18.04.10:969][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_RobeChunk1F4A9BAD4481BEEF7D6E7DACE64C4E89.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_RobeChunk.uasset'
+[2018.06.01-18.04.10:972][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_RobeChunk.uasset
+[2018.06.01-18.04.11:017][178]LogSavePackage: Save=1.56ms
+[2018.06.01-18.04.11:017][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Scarf64912F4F4AEAB343F90F34AFA63E8C3B.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Scarf.uasset'
+[2018.06.01-18.04.11:020][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Scarf.uasset
+[2018.06.01-18.04.11:064][178]LogSavePackage: Save=1.24ms
+[2018.06.01-18.04.11:064][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Sphere001CA1FB369475E298716503C8C707FE386.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Sphere001.uasset'
+[2018.06.01-18.04.11:067][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Sphere001.uasset
+[2018.06.01-18.04.11:111][178]LogSavePackage: Save=1.09ms
+[2018.06.01-18.04.11:111][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Stone159B3FE14F96B263177B1BB1BDFA27BD.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Stone.uasset'
+[2018.06.01-18.04.11:114][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Stone.uasset
+[2018.06.01-18.04.11:162][178]LogSavePackage: Save=1.86ms
+[2018.06.01-18.04.11:163][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Tree8A020BA34D8EB6661D2D1C9BF1240FEA.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Tree.uasset'
+[2018.06.01-18.04.11:167][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Tree.uasset
+[2018.06.01-18.04.11:216][178]LogSavePackage: Save=1.60ms
+[2018.06.01-18.04.11:216][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Tree001503F4B85455AE5EE19A86690D9DA9BFF.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Tree001.uasset'
+[2018.06.01-18.04.11:219][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Tree001.uasset
+[2018.06.01-18.04.11:261][178]LogSavePackage: Save=1.27ms
+[2018.06.01-18.04.11:261][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Cheese_Full_From_Max2_Vine8E7BF0D74484CE85AE5029B469E33269.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Vine.uasset'
+[2018.06.01-18.04.11:264][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Cheese_Full_From_Max2_Vine.uasset
+[2018.06.01-18.04.11:579][178]LogSavePackage: Save=145.81ms
+[2018.06.01-18.04.11:579][178]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/ThirdPersonExampleMap8318686444ABA0F9146640AF3F5B0474.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.01-18.04.11:586][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.01-18.04.11:641][178]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.349
+[2018.06.01-18.04.29:913][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.04.57:640][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/VFXMats/Fog2" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/Fog2.uasset" SILENT=true
+[2018.06.01-18.04.57:672][533]LogSavePackage: Save=29.98ms
+[2018.06.01-18.04.57:672][533]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Fog292AEB0DA466211317215C3AAD6A78AD9.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/Fog2.uasset'
+[2018.06.01-18.04.57:676][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/Fog2.uasset
+[2018.06.01-18.04.57:696][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Fog2" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Fog2.uasset" SILENT=true
+[2018.06.01-18.04.57:711][533]LogSavePackage: Save=1.38ms
+[2018.06.01-18.04.57:711][533]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Fog2DCE804EE48CBA8F4113D14A36FBADCC4.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Fog2.uasset'
+[2018.06.01-18.04.57:714][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/Fog2.uasset
+[2018.06.01-18.04.57:792][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/VFXMats/Fog" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/Fog.uasset" SILENT=true
+[2018.06.01-18.04.57:815][533]LogSavePackage: Save=21.57ms
+[2018.06.01-18.04.57:815][533]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/FogB6291E9A44BA1CDD10DC3DB351C46F6C.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/Fog.uasset'
+[2018.06.01-18.04.57:817][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/Fog.uasset
+[2018.06.01-18.05.06:920][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/VFXMats/MossML" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/MossML.uasset" SILENT=true
+[2018.06.01-18.05.06:943][801]LogSavePackage: Save=20.69ms
+[2018.06.01-18.05.06:943][801]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/MossMLFD225110432531E437DF34BE79F7CFEE.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/MossML.uasset'
+[2018.06.01-18.05.06:945][801]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/MossML.uasset
+[2018.06.01-18.05.07:038][801]LogSavePackage: Save=19.84ms
+[2018.06.01-18.05.07:038][801]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/RockMatBF16DFA1429A4B573D40399BF9F76ECE.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/RockMat.uasset'
+[2018.06.01-18.05.07:041][801]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/RockMat.uasset
+[2018.06.01-18.05.07:061][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/RockMat" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/RockMat.uasset" SILENT=true
+[2018.06.01-18.05.07:075][801]LogSavePackage: Save=1.40ms
+[2018.06.01-18.05.07:075][801]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/RockMat1557DF1F4868360C93C9BFAAD6D79F11.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/RockMat.uasset'
+[2018.06.01-18.05.07:078][801]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/RockMat.uasset
+[2018.06.01-18.05.36:509][714]LogSavePackage: Save=11.24ms
+[2018.06.01-18.05.36:509][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/High_1024Mat61DCA1D244A04EBCB08F629637C19603.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/High_1024Mat.uasset'
+[2018.06.01-18.05.36:528][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/High_1024Mat.uasset
+[2018.06.01-18.05.36:606][714]LogSavePackage: Save=10.71ms
+[2018.06.01-18.05.36:606][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/High_8192Mat06DF09274DA8027DEEF41394A70E9886.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/High_8192Mat.uasset'
+[2018.06.01-18.05.36:609][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/High_8192Mat.uasset
+[2018.06.01-18.05.36:688][714]LogSavePackage: Save=11.29ms
+[2018.06.01-18.05.36:688][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/lambert276991B2F4E656171DD719484119F9612.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/lambert2.uasset'
+[2018.06.01-18.05.36:691][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/lambert2.uasset
+[2018.06.01-18.05.36:771][714]LogSavePackage: Save=10.98ms
+[2018.06.01-18.05.36:771][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Low16Mat1B67488C416CCDE36D599082CAA6F321.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/Low16Mat.uasset'
+[2018.06.01-18.05.36:774][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/Low16Mat.uasset
+[2018.06.01-18.05.36:852][714]LogSavePackage: Save=10.62ms
+[2018.06.01-18.05.36:852][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/LowMat164A1F7E4F3CB19480D6FB981998292F.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/LowMat.uasset'
+[2018.06.01-18.05.36:856][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/LowMat.uasset
+[2018.06.01-18.05.36:938][714]LogSavePackage: Save=10.71ms
+[2018.06.01-18.05.36:938][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Medium_256MatC17A13B44030470DCB6258A7D7168799.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/Medium_256Mat.uasset'
+[2018.06.01-18.05.36:942][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/Medium_256Mat.uasset
+[2018.06.01-18.05.37:021][714]LogSavePackage: Save=10.74ms
+[2018.06.01-18.05.37:021][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Medium_64MatF67DE1E7434D444A486C0F90ADBA2970.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/Medium_64Mat.uasset'
+[2018.06.01-18.05.37:025][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/Medium_64Mat.uasset
+[2018.06.01-18.05.37:813][714]LogSavePackage: Save=11.77ms
+[2018.06.01-18.05.37:814][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_High_102462F232DA4AA69116D0F0B6B094DED682.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_High_1024.uasset'
+[2018.06.01-18.05.37:816][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_High_1024.uasset
+[2018.06.01-18.05.37:902][714]LogSavePackage: Save=11.75ms
+[2018.06.01-18.05.37:902][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_High_81927331EDB945A17070E1B9C9B1B4F47E24.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_High_8192.uasset'
+[2018.06.01-18.05.37:904][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_High_8192.uasset
+[2018.06.01-18.05.37:987][714]LogSavePackage: Save=10.57ms
+[2018.06.01-18.05.37:987][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_Low16DD3D62024525377635F1A28AF6F8D53A.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_Low16.uasset'
+[2018.06.01-18.05.37:989][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_Low16.uasset
+[2018.06.01-18.05.38:073][714]LogSavePackage: Save=11.24ms
+[2018.06.01-18.05.38:073][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_Low87763232499C8B43140B7A9DEF06D2D1.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_Low.uasset'
+[2018.06.01-18.05.38:075][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_Low.uasset
+[2018.06.01-18.05.38:158][714]LogSavePackage: Save=11.01ms
+[2018.06.01-18.05.38:158][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_Medium_2561418045B4FF84460526544B3CCC3739C.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_Medium_256.uasset'
+[2018.06.01-18.05.38:160][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_Medium_256.uasset
+[2018.06.01-18.05.38:245][714]LogSavePackage: Save=11.17ms
+[2018.06.01-18.05.38:245][714]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_Medium_644047D3E44386691971673B808B2D6A3A.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_Medium_64.uasset'
+[2018.06.01-18.05.38:249][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexTest_Planes_Medium_64.uasset
+[2018.06.01-18.05.52:080][977]LogSavePackage: Save=15.49ms
+[2018.06.01-18.05.52:080][977]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexMat0CA5D87640D94E9ED31CDD8B3BCC2B2C.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexMat.uasset'
+[2018.06.01-18.05.52:085][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexMat.uasset
+[2018.06.01-18.05.52:104][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/VertexMat" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexMat.uasset" SILENT=true
+[2018.06.01-18.05.52:126][977]LogSavePackage: Save=1.29ms
+[2018.06.01-18.05.52:126][977]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexMat232888BB4FFA0A9B3F4FD49020108472.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexMat.uasset'
+[2018.06.01-18.05.52:129][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexMat.uasset
+[2018.06.01-18.05.52:196][977]LogSavePackage: Save=10.32ms
+[2018.06.01-18.05.52:196][977]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_High_1024223B093641487FBCFA81E39BF85E0679.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_High_1024.uasset'
+[2018.06.01-18.05.52:200][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_High_1024.uasset
+[2018.06.01-18.05.52:265][977]LogSavePackage: Save=11.51ms
+[2018.06.01-18.05.52:265][977]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_High_819242F8EBF84A2E874CFF01C3901D295C8B.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_High_8192.uasset'
+[2018.06.01-18.05.52:269][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_High_8192.uasset
+[2018.06.01-18.05.52:333][977]LogSavePackage: Save=10.39ms
+[2018.06.01-18.05.52:333][977]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_Low428DBD864D6EBF94883E6297F0157878.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_Low.uasset'
+[2018.06.01-18.05.52:336][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_Low.uasset
+[2018.06.01-18.05.52:403][977]LogSavePackage: Save=12.36ms
+[2018.06.01-18.05.52:403][977]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_Low1690750E8F416C90E5A6B731888506B941.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_Low16.uasset'
+[2018.06.01-18.05.52:406][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_Low16.uasset
+[2018.06.01-18.05.52:471][977]LogSavePackage: Save=10.76ms
+[2018.06.01-18.05.52:471][977]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_Medium_64F952127A4B265C074357B7BA168E8F8E.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_Medium_64.uasset'
+[2018.06.01-18.05.52:474][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_Medium_64.uasset
+[2018.06.01-18.05.52:548][977]LogSavePackage: Save=20.95ms
+[2018.06.01-18.05.52:548][977]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/VertexTest_Planes_Medium_256CB8741774C25537C67F4A5A7B7271586.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_Medium_256.uasset'
+[2018.06.01-18.05.52:551][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VertexPaintingExample/VertexTest_Planes_Medium_256.uasset
+[2018.06.01-18.06.14:171][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.06.31:149][ 48]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.06.01-18.06.31:169][ 49]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.01-18.06.31:169][ 49]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.01-18.06.31:169][ 49]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.06.35:332][134]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.06.01-18.06.35:341][134]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.06.35:341][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.06.35:345][134]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.01-18.06.35:346][134]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.01-18.06.35:346][134]LogMaterial: 	Missing function output 'Result'
+[2018.06.01-18.06.35:349][134]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.06.01-18.06.35:353][134]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.06.35:378][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.06.35:407][134]MaterialEditorStats: Error: [SM5] Missing function output 'Result'
+[2018.06.01-18.06.35:438][134]LogSlate: Took 0.008545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.01-18.06.35:670][135]LogSlate: Took 0.001274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.01-18.07.32:500][254]LogMaterialEditor: Saving and Compiling material LinearGradient
+[2018.06.01-18.07.33:199][254]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.01-18.07.33:199][254]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.01-18.07.33:200][254]LogMaterial: 	Missing function output 'Result'
+[2018.06.01-18.07.33:206][254]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.06.01-18.07.33:219][254]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.07.33:515][254]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.06.01-18.07.33:516][254]LogMaterial: Warning: /Engine/Transient.Material_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.01-18.07.33:516][254]LogMaterial: 	Missing function output 'Result'
+[2018.06.01-18.07.33:563][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/LinearGradient" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset" SILENT=true
+[2018.06.01-18.07.33:579][254]LogSavePackage: Save=14.14ms
+[2018.06.01-18.07.33:579][254]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/LinearGradient12C8206048753E174431AFBACB8F3E01.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset'
+[2018.06.01-18.07.33:584][254]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset
+[2018.06.01-18.09.19:913][543]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMakeMaterialAttributes_0, compiling. 
+[2018.06.01-18.09.19:919][544]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.09.19:919][544]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.09.29:756][740]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.09.29:770][740]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.09.29:770][740]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.09.32:503][812]LogMaterialEditor: Saving and Compiling material LinearGradient
+[2018.06.01-18.09.33:117][812]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.01-18.09.33:168][812]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.09.33:168][812]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.09.33:168][812]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.09.33:168][812]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.01-18.09.33:168][812]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.06.01-18.09.33:360][812]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.01-18.09.33:413][812]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.09.33:427][812]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.09.33:453][812]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.06.01-18.09.33:579][812]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.06.01-18.09.33:589][812]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.06.01-18.09.33:727][812]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.06.01-18.09.33:756][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/LinearGradient" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset" SILENT=true
+[2018.06.01-18.09.33:810][812]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.06.01-18.09.33:810][812]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.06.01-18.09.33:810][812]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.06.01-18.09.33:810][812]LogSavePackage: Save=18.88ms
+[2018.06.01-18.09.33:810][812]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/LinearGradientAFFDC5C8495D34C5D4206A959A0A31F4.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset'
+[2018.06.01-18.09.33:814][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset
+[2018.06.01-18.09.33:921][815]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.01-18.09.33:935][815]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.06.01-18.09.33:953][816]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.06.01-18.09.33:994][817]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.06.01-18.09.34:122][821]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.06.01-18.09.34:148][822]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.06.01-18.09.34:193][823]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.06.01-18.09.34:222][824]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.01-18.09.34:311][827]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.06.01-18.09.34:409][830]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.06.01-18.09.34:409][830]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.01-18.09.34:668][838]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.06.01-18.09.34:671][838]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.06.01-18.09.34:810][842]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.06.01-18.09.34:950][846]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.06.01-18.09.34:950][846]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.06.01-18.09.35:207][854]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.06.01-18.09.35:229][855]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.01-18.09.35:267][856]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.06.01-18.09.35:413][860]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.01-18.09.35:461][862]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.09.35:501][863]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.01-18.09.37:193][915]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.01-18.09.40:099][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.11.44:395][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.11.49:168][ 18]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.11.49:182][ 18]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.11.49:182][ 18]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.16:994][613]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.17:048][614]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.17:048][614]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.25:444][790]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.25:458][790]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.25:458][790]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.28:295][862]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.06.01-18.12.28:356][863]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.28:356][863]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.31:253][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.31:260][925]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.31:260][925]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.31:263][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.31:277][925]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.31:277][925]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.43:283][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.43:287][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.43:292][197]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.12.43:292][197]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.01-18.12.43:292][197]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.43:292][197]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.43:292][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.43:323][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.43:330][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.43:337][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.43:371][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.43:379][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.43:388][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.43:418][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.43:424][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.43:433][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.43:466][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.43:475][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.43:482][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.43:510][197]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.01-18.12.43:514][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.43:521][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.43:526][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.43:542][197]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.01-18.12.43:557][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.43:564][197]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.43:564][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.43:570][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.43:585][197]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.12.43:771][199]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.12.43:824][200]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.01-18.12.43:824][200]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.43:869][201]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.43:959][201]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.43:966][201]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.43:973][201]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.44:006][201]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.44:012][201]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.44:018][201]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.44:064][202]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.01-18.12.44:064][202]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.12.44:097][203]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.12.44:115][203]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.01-18.12.44:256][203]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.44:318][204]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.44:784][210]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.44:790][210]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.44:795][210]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.44:809][210]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.12.44:809][210]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.01-18.12.44:809][210]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.44:809][210]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.45:033][215]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.45:044][215]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.46:772][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.46:777][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.46:782][240]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.46:782][240]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.46:782][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.46:795][240]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.46:795][240]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.46:827][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.46:866][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.46:874][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.46:880][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.47:012][242]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.01-18.12.47:027][242]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.12.47:060][242]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.12.47:069][242]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.01-18.12.47:284][246]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.47:310][246]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.48:340][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.48:346][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.48:351][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.48:365][266]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.12.48:365][266]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.01-18.12.48:365][266]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.48:365][266]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.48:381][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.12.48:388][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.12.48:392][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.48:418][266]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.01-18.12.48:577][268]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.01-18.12.48:592][268]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.12.48:652][269]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.12.48:655][269]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.01-18.12.48:851][275]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.48:876][275]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.12.57:535][474]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.12.57:548][474]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.12.57:548][474]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.13.14:720][934]LogMaterialEditor: Saving and Compiling material LinearGradient
+[2018.06.01-18.13.15:344][934]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.01-18.13.15:397][934]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.13.15:397][934]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.13.15:397][934]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.13.15:397][934]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.01-18.13.15:397][934]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.06.01-18.13.15:580][934]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.01-18.13.15:616][934]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.13.15:635][934]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.13.15:672][934]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.06.01-18.13.15:748][934]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.06.01-18.13.15:761][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/LinearGradient" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset" SILENT=true
+[2018.06.01-18.13.15:817][934]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.06.01-18.13.15:818][934]LogSavePackage: Save=20.16ms
+[2018.06.01-18.13.15:818][934]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/LinearGradient79CF35F348A35B32AD0DB998D2BB8726.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset'
+[2018.06.01-18.13.15:823][934]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset
+[2018.06.01-18.13.15:930][934]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.06.01-18.13.15:984][934]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.06.01-18.13.15:990][934]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.06.01-18.13.16:003][934]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.06.01-18.13.16:124][937]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.01-18.13.16:158][938]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.06.01-18.13.16:163][938]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.06.01-18.13.16:225][940]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.06.01-18.13.16:332][943]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.06.01-18.13.16:360][944]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.06.01-18.13.16:456][947]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.06.01-18.13.16:456][947]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.01-18.13.16:527][949]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.06.01-18.13.16:631][952]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.06.01-18.13.16:671][953]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.01-18.13.16:923][961]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.06.01-18.13.16:958][962]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.06.01-18.13.17:084][966]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.06.01-18.13.17:162][968]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.06.01-18.13.17:211][970]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.06.01-18.13.17:421][976]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.06.01-18.13.17:454][977]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.01-18.13.17:472][978]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.06.01-18.13.17:581][981]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.01-18.13.17:665][984]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.13.17:676][984]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.01-18.13.19:507][ 40]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.01-18.13.22:404][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.13.32:134][386]LogMaterialEditor: Saving and Compiling material LinearGradient
+[2018.06.01-18.13.32:751][386]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.01-18.13.32:802][386]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.13.32:802][386]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.13.32:802][386]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.13.32:802][386]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.01-18.13.32:802][386]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.06.01-18.13.32:979][386]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.01-18.13.33:024][386]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.13.33:036][386]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.13.33:072][386]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2018.06.01-18.13.33:112][386]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.13.33:112][386]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.01-18.13.33:165][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/LinearGradient" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset" SILENT=true
+[2018.06.01-18.13.33:208][386]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.06.01-18.13.33:208][386]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.06.01-18.13.33:208][386]LogSavePackage: Save=23.35ms
+[2018.06.01-18.13.33:208][386]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/LinearGradient7A4F171945D5AB555AE732B4BC6C4602.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset'
+[2018.06.01-18.13.33:212][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset
+[2018.06.01-18.13.33:247][388]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.06.01-18.13.33:283][389]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.06.01-18.13.33:364][391]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.01-18.13.33:394][392]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.06.01-18.13.33:426][393]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.06.01-18.13.33:525][396]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.06.01-18.13.33:598][398]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.06.01-18.13.33:598][398]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.06.01-18.13.33:715][401]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.06.01-18.13.33:728][401]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.01-18.13.33:759][402]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.06.01-18.13.33:824][404]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.06.01-18.13.33:920][407]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.01-18.13.34:117][413]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.06.01-18.13.34:213][416]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.06.01-18.13.34:261][418]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.06.01-18.13.34:430][423]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.06.01-18.13.34:489][425]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.06.01-18.13.34:658][430]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.06.01-18.13.34:693][431]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.01-18.13.34:779][434]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.06.01-18.13.34:850][436]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.01-18.13.34:910][438]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.13.34:912][438]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.01-18.13.36:679][492]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.01-18.13.43:392][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.14.11:403][459]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.14.11:416][459]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.14.11:416][459]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.14.13:163][496]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.14.13:176][496]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.14.13:176][496]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.14.18:921][640]LogMaterialEditor: Saving and Compiling material LinearGradient
+[2018.06.01-18.14.19:516][640]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.01-18.14.19:566][640]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.14.19:566][640]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.14.19:566][640]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.14.19:566][640]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.01-18.14.19:566][640]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.06.01-18.14.19:742][640]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.01-18.14.19:792][640]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.14.19:830][640]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.14.19:830][640]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2018.06.01-18.14.19:916][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/LinearGradient" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset" SILENT=true
+[2018.06.01-18.14.19:972][640]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.06.01-18.14.19:973][640]LogSavePackage: Save=23.11ms
+[2018.06.01-18.14.19:973][640]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/LinearGradient6A08B0D448C46FB4C308779168ECAB96.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset'
+[2018.06.01-18.14.20:030][640]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.06.01-18.14.20:031][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset
+[2018.06.01-18.14.20:116][640]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.06.01-18.14.20:143][640]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.06.01-18.14.20:148][640]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.06.01-18.14.20:174][640]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.06.01-18.14.20:293][643]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.01-18.14.20:311][643]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.06.01-18.14.20:333][644]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.06.01-18.14.20:372][645]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.06.01-18.14.20:481][648]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.06.01-18.14.20:503][649]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.06.01-18.14.20:571][651]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.06.01-18.14.20:595][652]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.01-18.14.20:658][654]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.06.01-18.14.20:759][657]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.06.01-18.14.20:766][657]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.01-18.14.21:020][665]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.06.01-18.14.21:020][665]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.06.01-18.14.21:113][668]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.06.01-18.14.21:209][671]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.06.01-18.14.21:245][672]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.06.01-18.14.21:516][680]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.06.01-18.14.21:516][680]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.01-18.14.21:516][680]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.06.01-18.14.21:644][684]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.01-18.14.21:711][686]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.14.21:776][688]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.01-18.14.23:375][737]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.01-18.14.28:589][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.14.28:659][875]LogSlate: Window 'LinearGradient' being destroyed
+[2018.06.01-18.14.28:689][875]LogSlate: Window 'LinearGradient' being destroyed
+[2018.06.01-18.14.29:413][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BlockoutSceneCheese_Object001)
+[2018.06.01-18.14.31:424][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BlockoutSceneCheese_Torus_Knot010)
+[2018.06.01-18.14.33:280][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.14.36:228][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.14.48:843][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.14.50:542][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.14.50:819][425]LogMaterial: Missing cached shader map for material TESTMAT, compiling. 
+[2018.06.01-18.14.50:981][425]LogMaterial: Missing cached shader map for material TESTMAT, compiling. 
+[2018.06.01-18.14.50:994][425]LogMaterial: Missing cached shader map for material TESTMAT, compiling. 
+[2018.06.01-18.14.51:007][425]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.01-18.14.51:007][425]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.01-18.14.51:007][425]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.01-18.14.51:007][425]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.01-18.14.51:033][425]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.14.51:041][425]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.06.01-18.14.51:046][425]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.06.01-18.14.51:051][425]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.06.01-18.14.51:586][431]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.01-18.14.51:607][431]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.01-18.14.51:619][431]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.01-18.14.51:651][432]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.01-18.14.51:797][434]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.01-18.14.51:827][434]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.01-18.14.51:847][434]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.01-18.14.52:043][436]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.01-18.14.52:224][438]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.01-18.14.52:241][438]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.01-18.14.52:252][438]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.01-18.14.52:276][439]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.01-18.14.52:472][441]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.01-18.14.52:834][442]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.01-18.14.52:834][442]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.01-18.14.52:834][442]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.01-18.14.52:834][442]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.01-18.14.52:834][442]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.14.52:834][442]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.06.01-18.14.52:835][442]MaterialEditorStats: Base pass shader with Surface Lightmap: 137 instructions
+[2018.06.01-18.14.52:835][442]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.06.01-18.14.52:835][442]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.01-18.14.52:835][442]MaterialEditorStats: Texture samplers: 7/16
+[2018.06.01-18.14.52:835][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.01-18.14.52:892][443]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.14.52:912][443]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.01-18.14.53:031][443]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.14.53:059][443]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.15.18:810][835]LogMaterial: Missing cached shader map for material RockMat, compiling. 
+[2018.06.01-18.15.18:919][835]LogMaterial: Missing cached shader map for material RockMat, compiling. 
+[2018.06.01-18.15.18:952][835]LogMaterial: Missing cached shader map for material RockMat, compiling. 
+[2018.06.01-18.15.18:982][835]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.01-18.15.18:982][835]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.01-18.15.18:982][835]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.15.18:982][835]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.15.19:006][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.06.01-18.15.19:013][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.06.01-18.15.19:019][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.06.01-18.15.19:446][841]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.01-18.15.19:604][843]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.01-18.15.19:665][844]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.01-18.15.19:673][844]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.01-18.15.19:677][844]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.15.19:763][846]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.15.19:825][846]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.15.19:834][846]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.01-18.15.19:887][847]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.01-18.15.19:947][848]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.01-18.15.19:990][848]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.01-18.15.20:000][848]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.01-18.15.20:096][849]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.01-18.15.20:163][850]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.01-18.15.20:170][850]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.01-18.15.20:290][852]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.01-18.15.20:290][852]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.01-18.15.20:328][852]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.01-18.15.20:399][853]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.01-18.15.20:467][853]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.01-18.15.21:202][854]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.01-18.15.21:202][854]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.01-18.15.21:202][854]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.01-18.15.21:202][854]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.01-18.15.21:202][854]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.01-18.15.21:254][855]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.01-18.15.21:442][856]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.01-18.15.21:506][857]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.01-18.15.21:509][857]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.01-18.15.21:681][860]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.01-18.15.21:686][860]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.15.21:747][861]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.15.21:750][861]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.01-18.15.21:859][862]MaterialEditorStats: Base pass shader: 195 instructions
+[2018.06.01-18.15.21:859][862]MaterialEditorStats: Base pass shader with Surface Lightmap: 212 instructions
+[2018.06.01-18.15.21:860][862]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 268 instructions
+[2018.06.01-18.15.21:860][862]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.06.01-18.15.21:860][862]MaterialEditorStats: Texture samplers: 7/16
+[2018.06.01-18.15.21:860][862]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.01-18.15.21:914][863]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.15.21:956][864]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.15.30:876][ 93]LogMaterialEditor: Saving and Compiling material RockMat
+[2018.06.01-18.15.30:977][ 93]LogSavePackage: Save=8.08ms
+[2018.06.01-18.15.30:977][ 93]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/RockMat8EFBA68E4CF4EDA89646FE88473B25BD.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/RockMat.uasset'
+[2018.06.01-18.15.30:979][ 93]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/VFXMats/RockMat.uasset
+[2018.06.01-18.15.59:794][884]LogSavePackage: Save=154.03ms
+[2018.06.01-18.15.59:794][884]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/ThirdPersonExampleMap_Auto12611B1FE445405B402239CA935B690A7.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.06.01-18.15.59:797][884]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.06.01-18.15.59:936][884]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.373
+[2018.06.01-18.15.59:936][884]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.373
+[2018.06.01-18.21.26:511][795]LogMaterial: Missing cached shader map for material Material_8, compiling. 
+[2018.06.01-18.21.26:515][795]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.21.26:519][795]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.06.01-18.21.26:538][795]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.21.26:538][795]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.21.26:538][795]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.21.26:542][795]LogMaterial: Missing cached shader map for material Material_8, compiling. 
+[2018.06.01-18.21.26:574][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.21.26:579][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2018.06.01-18.21.26:584][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2018.06.01-18.21.26:589][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_1, compiling. 
+[2018.06.01-18.21.27:033][800]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.06.01-18.21.27:208][803]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.06.01-18.21.27:235][803]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.01-18.21.27:341][805]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.06.01-18.21.27:348][805]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.01-18.21.27:391][805]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.01-18.21.27:473][806]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.01-18.21.27:503][807]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.01-18.21.27:580][808]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.01-18.21.27:640][809]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.01-18.21.27:652][809]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.21.27:702][810]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.21.27:725][810]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.21.27:834][812]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.01-18.21.27:839][812]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.01-18.21.27:897][813]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.01-18.21.27:939][813]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.01-18.21.28:020][813]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.01-18.21.28:030][813]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.01-18.21.28:102][813]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.01-18.21.28:129][813]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.01-18.21.28:370][814]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.01-18.21.28:460][815]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.01-18.21.28:495][815]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.01-18.21.28:604][816]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.01-18.21.28:670][817]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.01-18.21.28:864][820]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.01-18.21.28:900][821]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.01-18.21.28:922][821]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.01-18.21.29:053][823]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.01-18.21.29:090][824]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.01-18.21.29:100][824]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.01-18.21.29:181][825]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.01-18.21.29:267][826]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.01-18.21.29:316][827]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.01-18.21.29:353][828]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.01-18.21.29:446][829]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.22.01:357][504]LogMaterial: Missing cached shader map for material Material_9, compiling. 
+[2018.06.01-18.22.01:370][504]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.06.01-18.22.01:389][504]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.22.01:389][504]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.22.01:389][504]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.22.01:389][504]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.22.01:392][504]LogMaterial: Missing cached shader map for material Material_9, compiling. 
+[2018.06.01-18.22.01:430][504]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2018.06.01-18.22.01:437][504]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.22.01:444][504]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.01-18.22.01:861][509]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.01-18.22.02:024][513]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.06.01-18.22.02:024][513]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.01-18.22.02:151][516]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.01-18.22.02:169][516]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.01-18.22.02:191][517]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.01-18.22.02:333][521]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.01-18.22.02:364][522]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.01-18.22.02:430][524]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.22.02:555][528]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.22.02:562][528]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.22.02:618][528]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.01-18.22.02:638][528]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.01-18.22.02:766][528]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.01-18.22.02:782][528]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.01-18.22.02:806][528]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.01-18.22.03:030][528]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.01-18.22.03:030][528]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.01-18.22.03:030][528]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.01-18.22.03:030][528]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.01-18.22.03:082][528]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.01-18.22.03:269][531]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.01-18.22.03:391][535]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.01-18.22.03:424][536]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.01-18.22.03:535][539]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.01-18.22.03:627][541]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.01-18.22.03:767][545]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.01-18.22.03:800][546]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.01-18.22.03:888][549]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.01-18.22.03:927][550]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.01-18.22.03:989][552]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.01-18.22.04:018][553]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.01-18.22.04:161][557]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.01-18.22.04:210][558]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.01-18.22.04:286][560]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.01-18.22.16:187][859]LogMaterialEditor: Saving and Compiling material LinearGradient
+[2018.06.01-18.22.16:782][859]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.06.01-18.22.16:835][859]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.22.16:835][859]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.22.16:835][859]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.22.16:835][859]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.01-18.22.16:835][859]LogMaterial: Missing cached shader map for material Material_9, compiling. 
+[2018.06.01-18.22.17:009][859]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.01-18.22.17:037][859]LogMaterial: Missing cached shader map for material TESTMAT, compiling. 
+[2018.06.01-18.22.17:063][859]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.06.01-18.22.17:067][859]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.06.01-18.22.17:067][859]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.06.01-18.22.17:098][859]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.06.01-18.22.17:128][859]LogMaterial: Missing cached shader map for material Material_10, compiling. 
+[2018.06.01-18.22.17:207][859]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.06.01-18.22.17:212][859]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.06.01-18.22.17:221][859]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.06.01-18.22.17:222][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/LinearGradient" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset" SILENT=true
+[2018.06.01-18.22.17:276][859]LogSavePackage: Save=17.09ms
+[2018.06.01-18.22.17:276][859]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/LinearGradientB589B47E4CFFC63940DFBD8BB3715460.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset'
+[2018.06.01-18.22.17:280][859]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset
+[2018.06.01-18.22.17:282][859]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.06.01-18.22.17:371][862]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.06.01-18.22.17:374][862]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.06.01-18.22.17:410][863]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.06.01-18.22.17:490][865]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.06.01-18.22.17:590][868]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.06.01-18.22.17:590][868]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.06.01-18.22.17:695][871]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.06.01-18.22.17:695][871]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.06.01-18.22.17:754][873]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.06.01-18.22.17:882][877]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.06.01-18.22.17:913][877]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.06.01-18.22.18:133][884]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.06.01-18.22.18:164][885]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.06.01-18.22.18:257][888]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.06.01-18.22.18:396][892]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.06.01-18.22.18:420][893]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.06.01-18.22.18:646][900]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.06.01-18.22.18:675][901]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.06.01-18.22.18:675][901]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.01-18.22.18:804][905]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.06.01-18.22.18:866][907]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.06.01-18.22.18:903][908]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.06.01-18.22.18:948][909]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.06.01-18.22.19:064][913]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.06.01-18.22.19:106][914]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.06.01-18.22.19:124][915]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.01-18.22.19:161][916]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.06.01-18.22.19:274][919]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.06.01-18.22.19:307][919]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.01-18.22.19:505][926]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.06.01-18.22.19:635][930]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.06.01-18.22.19:732][933]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.06.01-18.22.19:761][934]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.06.01-18.22.19:770][934]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.06.01-18.22.20:053][943]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.06.01-18.22.20:117][945]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.01-18.22.20:185][947]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.06.01-18.22.20:255][949]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.01-18.22.20:378][953]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.22.20:481][956]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.01-18.22.20:516][957]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.06.01-18.22.20:516][957]MaterialEditorStats: Base pass shader with Surface Lightmap: 137 instructions
+[2018.06.01-18.22.20:516][957]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.06.01-18.22.20:516][957]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.01-18.22.20:516][957]MaterialEditorStats: Texture samplers: 7/16
+[2018.06.01-18.22.20:516][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.01-18.22.21:948][  0]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.01-18.22.33:241][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.22.49:017][499]LogMaterialEditor: Saving and Compiling material LinearGradient
+[2018.06.01-18.22.49:606][499]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.06.01-18.22.49:655][499]LogMaterial: Missing cached shader map for material Material_9, compiling. 
+[2018.06.01-18.22.49:662][499]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.01-18.22.49:662][499]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.01-18.22.49:662][499]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.22.49:662][499]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.01-18.22.49:851][499]LogMaterial: Missing cached shader map for material TESTMAT, compiling. 
+[2018.06.01-18.22.49:930][499]LogMaterial: Missing cached shader map for material Material_11, compiling. 
+[2018.06.01-18.22.50:022][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/LinearGradient" FILE="../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset" SILENT=true
+[2018.06.01-18.22.50:067][499]LogSavePackage: Save=20.64ms
+[2018.06.01-18.22.50:067][499]LogSavePackage: Moving '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Saved/LinearGradientFF0AC1B24C452DE1918FCE8D52837524.tmp' to '../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset'
+[2018.06.01-18.22.50:072][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jacob Thomas/Documents/Unreal Projects/Testing 4.19/Content/ThirdPersonBP/LinearGradient.uasset
+[2018.06.01-18.22.50:160][502]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.06.01-18.22.50:285][505]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.06.01-18.22.50:316][506]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.06.01-18.22.50:316][506]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.06.01-18.22.50:345][507]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.06.01-18.22.50:483][511]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.06.01-18.22.50:506][512]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.06.01-18.22.50:506][512]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.06.01-18.22.50:572][514]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.06.01-18.22.50:673][517]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.06.01-18.22.50:677][517]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.06.01-18.22.50:681][517]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.06.01-18.22.50:806][521]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.06.01-18.22.50:868][523]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.06.01-18.22.50:913][524]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.06.01-18.22.50:971][525]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.06.01-18.22.50:990][526]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.06.01-18.22.51:073][529]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.06.01-18.22.51:119][530]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.06.01-18.22.51:176][532]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.06.01-18.22.51:368][538]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.06.01-18.22.51:437][540]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.06.01-18.22.51:532][543]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.06.01-18.22.51:659][547]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.06.01-18.22.51:659][547]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.06.01-18.22.51:858][553]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.06.01-18.22.51:887][554]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.06.01-18.22.51:956][556]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.01-18.22.52:083][560]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.06.01-18.22.52:117][561]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.06.01-18.22.52:117][561]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.06.01-18.22.52:244][565]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.06.01-18.22.52:372][569]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.06.01-18.22.52:375][569]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.06.01-18.22.52:400][570]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.01-18.22.52:470][572]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.06.01-18.22.52:604][576]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.06.01-18.22.52:610][576]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.01-18.22.52:826][582]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.06.01-18.22.52:979][587]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.06.01-18.22.53:045][589]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.06.01-18.22.53:073][590]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.06.01-18.22.53:101][591]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.06.01-18.22.53:335][598]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.06.01-18.22.53:458][602]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.01-18.22.53:495][603]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.06.01-18.22.53:531][604]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.01-18.22.53:696][608]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.01-18.22.53:738][610]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.01-18.22.53:781][611]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.06.01-18.22.53:781][611]MaterialEditorStats: Base pass shader with Surface Lightmap: 137 instructions
+[2018.06.01-18.22.53:781][611]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.06.01-18.22.53:781][611]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.06.01-18.22.53:781][611]MaterialEditorStats: Texture samplers: 7/16
+[2018.06.01-18.22.53:781][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.01-18.22.55:228][654]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.01-18.22.55:300][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.01-18.25.15:367][ 11]LogMaterial: Missing cached shader map for material Material_12, compiling. 
+[2018.06.01-18.25.15:410][ 12]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.06.01-18.25.15:410][ 12]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.01-18.25.15:411][ 12]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.01-18.25.15:411][ 12]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.01-18.25.17:529][ 77]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.25.44:322][650]LogMaterial: Missing cached shader map for material Material_13, compiling. 
+[2018.06.01-18.25.44:365][651]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.06.01-18.25.44:365][651]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.01-18.25.44:365][651]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.01-18.25.44:365][651]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.01-18.25.46:434][715]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.26.11:642][240]LogMaterial: Missing cached shader map for material Material_14, compiling. 
+[2018.06.01-18.26.11:683][241]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.06.01-18.26.11:683][241]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.01-18.26.11:683][241]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.01-18.26.11:683][241]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.01-18.26.13:675][288]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.01-18.26.49:556][ 92]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.01-18.26.49:569][ 92]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.26.49:569][ 92]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.26.53:852][192]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.06.01-18.26.53:865][192]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.26.53:865][192]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.26.58:381][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.06.01-18.26.58:394][298]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.26.58:394][298]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.27.04:851][443]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.06.01-18.27.04:865][443]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.27.04:865][443]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.27.11:013][574]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.06.01-18.27.11:027][574]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.27.11:027][574]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.27.16:520][698]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.06.01-18.27.16:533][698]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.01-18.27.16:533][698]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.01-18.27.21:940][800]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.295 s
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: === Handled ensure: ===
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: 
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: Ensure condition failed: TargetPin [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\MaterialEditor\Private\MaterialEditor.cpp] [Line: 2921]
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: 
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: Stack: 
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C49BB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C471AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C472ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000B758FA51 UE4Editor-MaterialEditor.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000B755BFB6 UE4Editor-MaterialEditor.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0A1602B UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0B168C8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0B00046 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0753804 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0791575 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C079333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0791AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C079333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0793C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0791C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C079333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0793C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0791C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C079333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0793C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0791C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C079333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0791AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C079333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0793C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0791C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C079333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C07915B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0C6D4BD UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C079333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C07915B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0C691E0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C079333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C07915B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C079333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C074B97B UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0793F0A UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0793A6D UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0A21CF2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0A22D38 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0A22D38 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0A5413E UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0A22DFA UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0A7A79E UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:940][800]LogOutputDevice: Error: [Callstack] 0x00000000C0A79777 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.01-18.27.21:941][800]LogOutputDevice: Error: [Callstack] 0x000000003FA26F3A UE4Editor.exe!UnknownFunction []
+[2018.06.01-18.27.21:941][800]LogOutputDevice: Error: [Callstack] 0x000000003FA36BD0 UE4Editor.exe!UnknownFunction []
+[2018.06.01-18.27.21:941][800]LogOutputDevice: Error: [Callstack] 0x000000003FA36C4A UE4Editor.exe!UnknownFunction []
+[2018.06.01-18.27.21:941][800]LogOutputDevice: Error: [Callstack] 0x000000003FA44177 UE4Editor.exe!UnknownFunction []
+[2018.06.01-18.27.21:941][800]LogOutputDevice: Error: [Callstack] 0x000000003FA45B87 UE4Editor.exe!UnknownFunction []
+[2018.06.01-18.27.21:941][800]LogOutputDevice: Error: [Callstack] 0x00000000777959CD kernel32.dll!UnknownFunction []
+[2018.06.01-18.27.21:941][800]LogOutputDevice: Error: [Callstack] 0x00000000779F383D ntdll.dll!UnknownFunction []
+[2018.06.01-18.27.21:941][800]LogOutputDevice: Error: 
+[2018.06.01-18.27.21:942][800]LogStats:                SubmitErrorReport -  0.000 s

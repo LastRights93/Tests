@@ -1,0 +1,273 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="LinGradientMF"
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionObjectPositionWS Name="MaterialExpressionObjectPositionWS_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionObjectRadius Name="MaterialExpressionObjectRadius_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionSubtract'"LinGradientMF:MaterialExpressionSubtract_0"')
+      B=(Expression=MaterialExpressionAppendVector'"LinGradientMF:MaterialExpressionAppendVector_0"')
+      MaterialExpressionEditorX=-1584
+      MaterialExpressionEditorY=544
+      MaterialExpressionGuid=EDED92B3470E657678EA23A841B6B08A
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_0"
+      A=(Expression=MaterialExpressionConstant2Vector'"LinGradientMF:MaterialExpressionConstant2Vector_0"')
+      B=(Expression=MaterialExpressionScalarParameter'"LinGradientMF:MaterialExpressionScalarParameter_0"')
+      MaterialExpressionEditorX=-1742
+      MaterialExpressionEditorY=850
+      MaterialExpressionGuid=FB2A30B4408D002E0A64F3B268234CAC
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_0"
+      Input=(Expression=MaterialExpressionComponentMask'"LinGradientMF:MaterialExpressionComponentMask_0"')
+      MaterialExpressionEditorX=-1008
+      MaterialExpressionEditorY=496
+      MaterialExpressionGuid=61A6293146BCCAD543F50783033823CC
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=576
+      SizeY=443
+      Text="Reverse the effect to use as an alpha"
+      MaterialExpressionEditorX=-688
+      MaterialExpressionEditorY=80
+      MaterialExpressionGuid=6D36432843FB392C519153A60AFF67C5
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=376
+      SizeY=247
+      Text="Height of Color"
+      MaterialExpressionEditorX=-1984
+      MaterialExpressionEditorY=800
+      MaterialExpressionGuid=28EA5C7D4415BE332C4E38A9B3EDD8A5
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=658
+      SizeY=359
+      Text="Object info for color"
+      MaterialExpressionEditorX=-2002
+      MaterialExpressionEditorY=382
+      MaterialExpressionGuid=62A5B6274F820F5026B1C29612649549
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_3"
+      SizeX=1440
+      SizeY=880
+      Text="Reference, Alessa Baker  Alessabaker.net"
+      CommentColor=(R=1.000000,G=0.505969,B=0.521887,A=1.000000)
+      MaterialExpressionEditorX=-2256
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=152E3AB644F32169F2E1B993218836BA
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_4"
+      SizeX=832
+      SizeY=784
+      Text="My Addition and changes"
+      CommentColor=(R=0.204167,G=0.263967,B=1.000000,A=1.000000)
+      MaterialExpressionEditorX=-752
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=EA89116848317BD420DEA7813E605282
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0"
+      Input=(Expression=MaterialExpressionDivide'"LinGradientMF:MaterialExpressionDivide_0"')
+      B=True
+      MaterialExpressionEditorX=-1168
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=2105D84C4FAA17697BA7709973B7F8C4
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_10"
+      R=15.000000
+      MaterialExpressionEditorX=-368
+      MaterialExpressionEditorY=416
+      MaterialExpressionGuid=84D0611D48BCCEA9ED4C62A6EA140B27
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_0"
+      MaterialExpressionEditorX=-1886
+      MaterialExpressionEditorY=850
+      MaterialExpressionGuid=7256FA0D4F6346D3C4192EA6A785A4E8
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      MaterialExpressionEditorX=-638
+      MaterialExpressionEditorY=210
+      MaterialExpressionGuid=571B1EEB46B231BCF951EF8C6905FC42
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_0"
+      A=(Expression=MaterialExpressionSubtract'"LinGradientMF:MaterialExpressionSubtract_1"')
+      B=(Expression=MaterialExpressionScalarParameter'"LinGradientMF:MaterialExpressionScalarParameter_1"')
+      MaterialExpressionEditorX=-1312
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=1F0B6E8F43E1B60A4DBD6FA352F449E2
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_0"
+      A=(Expression=MaterialExpressionPower'"LinGradientMF:MaterialExpressionPower_0"')
+      bLastPreviewed=True
+      Id=1519ADB94F37E903825031BD00155BBF
+      MaterialExpressionEditorX=200
+      MaterialExpressionEditorY=300
+      MaterialExpressionGuid=DA92C05F4BC7583137A325964849808E
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1"
+      A=(Expression=MaterialExpressionScalarParameter'"LinGradientMF:MaterialExpressionScalarParameter_5"')
+      B=(Expression=MaterialExpressionConstant3Vector'"LinGradientMF:MaterialExpressionConstant3Vector_0"')
+      Alpha=(Expression=MaterialExpressionClamp'"LinGradientMF:MaterialExpressionClamp_0"')
+      ConstA=1.000000
+      MaterialExpressionEditorX=-366
+      MaterialExpressionEditorY=258
+      MaterialExpressionGuid=E1112324400FD3A83F8975A98D9EB042
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionObjectPositionWS_0"
+      MaterialExpressionEditorX=-1968
+      MaterialExpressionEditorY=512
+      MaterialExpressionGuid=C27B096F4E61A0FB8A40968A743A483B
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionObjectRadius_0"
+      MaterialExpressionEditorX=-1952
+      MaterialExpressionEditorY=624
+      MaterialExpressionGuid=0F44ED7841EB61B78B74179CA4D00A0E
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionPower_0"
+      Base=(Expression=MaterialExpressionLinearInterpolate'"LinGradientMF:MaterialExpressionLinearInterpolate_1"')
+      Exponent=(Expression=MaterialExpressionConstant'"LinGradientMF:MaterialExpressionConstant_10"')
+      MaterialExpressionEditorX=-254
+      MaterialExpressionEditorY=370
+      MaterialExpressionGuid=C9E1477F4A2837FD7A45E2A4895E9AF8
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=50.000000
+      ParameterName="Z Offset"
+      ExpressionGUID=C6FD1A554E84007CBD24F69F16D50FC5
+      MaterialExpressionEditorX=-1934
+      MaterialExpressionEditorY=930
+      MaterialExpressionGuid=891D966E4BD054C1A2596DA8D4BEC691
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=1500.000000
+      ParameterName="GradientFalloff"
+      ExpressionGUID=9F24F53D4AEB9891842C768D34119C49
+      MaterialExpressionEditorX=-1504
+      MaterialExpressionEditorY=640
+      MaterialExpressionGuid=5F8494E74053F5D0BA1E7DA1F5036A29
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_5"
+      DefaultValue=1.000000
+      ParameterName="Base Lerp Value"
+      ExpressionGUID=1E1DD1AE4900EBAF13193F92E1AD906C
+      MaterialExpressionEditorX=-590
+      MaterialExpressionEditorY=130
+      MaterialExpressionGuid=BF752C6E4124995B3F7E2A841DAA2006
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_0"
+      A=(Expression=MaterialExpressionObjectPositionWS'"LinGradientMF:MaterialExpressionObjectPositionWS_0"')
+      B=(Expression=MaterialExpressionObjectRadius'"LinGradientMF:MaterialExpressionObjectRadius_0"')
+      MaterialExpressionEditorX=-1728
+      MaterialExpressionEditorY=544
+      MaterialExpressionGuid=412CF7814734B2D7B1FB80885E2CC33E
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_1"
+      A=(Expression=MaterialExpressionWorldPosition'"LinGradientMF:MaterialExpressionWorldPosition_0"')
+      B=(Expression=MaterialExpressionAdd'"LinGradientMF:MaterialExpressionAdd_0"')
+      MaterialExpressionEditorX=-1488
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=8A249F404F367FDAC022E99FDB138B69
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_0"
+      MaterialExpressionEditorX=-1840
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=B00AF4D04D74119F605377AB5457E922
+      Function=MaterialFunction'"LinGradientMF"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   FunctionExpressions(0)=MaterialExpressionFunctionOutput'"MaterialExpressionFunctionOutput_0"'
+   FunctionExpressions(1)=MaterialExpressionWorldPosition'"MaterialExpressionWorldPosition_0"'
+   FunctionExpressions(2)=MaterialExpressionObjectPositionWS'"MaterialExpressionObjectPositionWS_0"'
+   FunctionExpressions(3)=MaterialExpressionObjectRadius'"MaterialExpressionObjectRadius_0"'
+   FunctionExpressions(4)=MaterialExpressionSubtract'"MaterialExpressionSubtract_0"'
+   FunctionExpressions(5)=MaterialExpressionAdd'"MaterialExpressionAdd_0"'
+   FunctionExpressions(6)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_0"'
+   FunctionExpressions(7)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"'
+   FunctionExpressions(8)=MaterialExpressionAppendVector'"MaterialExpressionAppendVector_0"'
+   FunctionExpressions(9)=MaterialExpressionSubtract'"MaterialExpressionSubtract_1"'
+   FunctionExpressions(10)=MaterialExpressionDivide'"MaterialExpressionDivide_0"'
+   FunctionExpressions(11)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"'
+   FunctionExpressions(12)=MaterialExpressionComponentMask'"MaterialExpressionComponentMask_0"'
+   FunctionExpressions(13)=MaterialExpressionClamp'"MaterialExpressionClamp_0"'
+   FunctionExpressions(14)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_1"'
+   FunctionExpressions(15)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   FunctionExpressions(16)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_5"'
+   FunctionExpressions(17)=MaterialExpressionPower'"MaterialExpressionPower_0"'
+   FunctionExpressions(18)=MaterialExpressionConstant'"MaterialExpressionConstant_10"'
+   FunctionEditorComments(0)=MaterialExpressionComment'"MaterialExpressionComment_1"'
+   FunctionEditorComments(1)=MaterialExpressionComment'"MaterialExpressionComment_2"'
+   FunctionEditorComments(2)=MaterialExpressionComment'"MaterialExpressionComment_0"'
+   FunctionEditorComments(3)=MaterialExpressionComment'"MaterialExpressionComment_3"'
+   FunctionEditorComments(4)=MaterialExpressionComment'"MaterialExpressionComment_4"'
+   CombinedOutputTypes=15
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+End Object
